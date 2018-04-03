@@ -14,3 +14,8 @@ This code is targeted at an ESP8266 board, but anything supported by MicroPython
 * Flash it to MicroPython using esptool
 * Push the .mpy versions of the .py files in this project to the board
 * Reset your board
+
+# Programming notes
+
+* https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html
+* https://docs.micropython.org/en/latest/esp8266/esp8266/general.html
